@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-This name is shaista
+This name is shaista.
